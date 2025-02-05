@@ -1,6 +1,6 @@
-# 2025LineCheckTicketBot
+![image](https://github.com/user-attachments/assets/7490e6d3-1df9-4f95-9a03-a454597ba73d)# 2025LineCheckTicketBot
 
-**2025LineCheckTicketBot** 是一個自動化機器人，用於檢查 售票網站 的票券狀態，利用HTML的變化，透過LINEBOT 傳送訊息至群組裡面。
+**2025LineCheckTicketBot** 是一個自動化機器人，用於檢查 "售票網站"的票券狀態，利用HTML的變化，透過LINEBOT 傳送訊息至群組裡面。
 
 ## 🚀 功能介紹
 
@@ -14,6 +14,8 @@
 git clone https://github.com/yourusername/2025LineCheckTicketBot.git
 cd 2025LineCheckTicketBot
 ```
+
+
 ### 2. 直接使用 Python 執行
 ```bash
 pip install -r requirements.txt
