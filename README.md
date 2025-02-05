@@ -14,3 +14,9 @@
 ```bash
 git clone https://github.com/yourusername/2025LineCheckTicketBot.git
 cd 2025LineCheckTicketBot
+```
+### 2. 直接使用 Python 執行
+```bash
+pip install -r requirements.txt
+python CheckTicket.py
+```
