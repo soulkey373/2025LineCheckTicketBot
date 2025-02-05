@@ -10,9 +10,9 @@ import requests  # 用於發送 LINE Messaging API
 from datetime import datetime
 
 # 群組 ID（填入你的群組 ID）
-LINE_GROUP_ID = 'C2aa60e1da3d316f6e97a431735aa596b'
+LINE_GROUP_ID = ''
 # LINE Messaging API 的 Channel Access Token
-LINE_CHANNEL_ACCESS_TOKEN = 'zSO7P2pG9HwpXV7B69AFVfsybr7qdFNDqjt24z93t/4W2N89zWnclv1/U5HF6Nu5eVKfLgyA69A9pvByfjN3XkHLoPjLvW8LpQyggcMNe8Prngvnuu8F9CzqijBxJVAu5968vYOQZaELYgLL2xW9eAdB04t89/1O/w1cDnyilFU='
+LINE_CHANNEL_ACCESS_TOKEN = ''
 
 # 發送訊息到 LINE 群組的函數
 def send_line_message(to, messages):
