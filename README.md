@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/7490e6d3-1df9-4f95-9a03-a454597ba73d)# 2025LineCheckTicketBot
-
 **2025LineCheckTicketBot** 是一個自動化機器人，用於檢查 "售票網站"的票券狀態，利用HTML的變化，透過LINEBOT 傳送訊息至群組裡面。
 
 ## 🚀 功能介紹
